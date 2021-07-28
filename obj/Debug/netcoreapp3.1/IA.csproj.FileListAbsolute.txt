@@ -1,0 +1,13 @@
+C:\Users\Toavina\Desktop\IA\bin\Debug\netcoreapp3.1\IA.exe
+C:\Users\Toavina\Desktop\IA\bin\Debug\netcoreapp3.1\IA.deps.json
+C:\Users\Toavina\Desktop\IA\bin\Debug\netcoreapp3.1\IA.runtimeconfig.json
+C:\Users\Toavina\Desktop\IA\bin\Debug\netcoreapp3.1\IA.runtimeconfig.dev.json
+C:\Users\Toavina\Desktop\IA\bin\Debug\netcoreapp3.1\IA.dll
+C:\Users\Toavina\Desktop\IA\bin\Debug\netcoreapp3.1\IA.pdb
+C:\Users\Toavina\Desktop\IA\obj\Debug\netcoreapp3.1\IA.csprojAssemblyReference.cache
+C:\Users\Toavina\Desktop\IA\obj\Debug\netcoreapp3.1\IA.AssemblyInfoInputs.cache
+C:\Users\Toavina\Desktop\IA\obj\Debug\netcoreapp3.1\IA.AssemblyInfo.cs
+C:\Users\Toavina\Desktop\IA\obj\Debug\netcoreapp3.1\IA.csproj.CoreCompileInputs.cache
+C:\Users\Toavina\Desktop\IA\obj\Debug\netcoreapp3.1\IA.dll
+C:\Users\Toavina\Desktop\IA\obj\Debug\netcoreapp3.1\IA.pdb
+C:\Users\Toavina\Desktop\IA\obj\Debug\netcoreapp3.1\IA.genruntimeconfig.cache
