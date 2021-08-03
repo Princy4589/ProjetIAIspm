@@ -9,15 +9,15 @@ namespace IA
 
         public Props(string value , bool negation = true){
             this.value = value;
-            this.negation = negation;
+            this.negation = this.value.Contains("ne ") || this.value.Contains("n'");
         }
 
-        public void negationner(){
-            this.negation = !this.negation;
+        public string showIf(bool t){
+            return this.str(t);
         }
 
-        public override string ToString(){
-            return this.negation?7+"("+this.value+")":"("+this.value+")";
+        public string str(bool t){
+            return !t?"Fausse => "+"("+this.value+")":"("+this.value+")";
         }
 
 

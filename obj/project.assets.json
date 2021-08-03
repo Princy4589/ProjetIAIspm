@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Toavina\\Desktop\\IA\\IA.csproj",
+      "projectUniqueName": "C:\\Users\\Toavina\\Desktop\\Project\\ProjetIAIspm\\IA.csproj",
       "projectName": "IA",
-      "projectPath": "C:\\Users\\Toavina\\Desktop\\IA\\IA.csproj",
+      "projectPath": "C:\\Users\\Toavina\\Desktop\\Project\\ProjetIAIspm\\IA.csproj",
       "packagesPath": "C:\\Users\\Toavina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Toavina\\Desktop\\IA\\obj\\",
+      "outputPath": "C:\\Users\\Toavina\\Desktop\\Project\\ProjetIAIspm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Toavina\\AppData\\Roaming\\NuGet\\NuGet.Config"
